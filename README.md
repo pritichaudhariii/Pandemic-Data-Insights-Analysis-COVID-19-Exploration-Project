@@ -12,13 +12,11 @@ Visualization: Creating insightful visuals to highlight the pandemic's global im
 
 📊 Tableau Dashboard
 
-Developed an interactive Tableau dashboard that visualizes:
-Global death count trends
-Continental death counts
-Percentage of population infected by country (filterable view)
-[Tableau dashboard](https://public.tableau.com/app/profile/priti.chaudhari/viz/CovidDataVisualizationDashboard-May2024_17551213558610/Dashboard1)
+I also developed a [Tableau dashboard](https://public.tableau.com/app/profile/priti.chaudhari/viz/CovidDataVisualizationDashboard-May2024_17551213558610/Dashboard1) to visualize Covid-19 infection data across all the countries around the world. The dashboard gives an overview of the global death count, continental death count, and a filtered view of percentage population infected by country.
 
 🗃️ Dataset
 
 Source: Our World in Data – COVID-19 Data
 Data cutoff: May 2024
+Here is a link to the [dataset](https://docs.owid.io/projects/etl/api/covid/#publications).
+

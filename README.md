@@ -7,7 +7,9 @@ This project performs an exploratory data analysis (EDA) on COVID-19 data to ass
 🔍 Focus Areas
 
 Data Transformation: Cleaning and restructuring raw COVID-19 data for analysis.
+
 Exploratory Data Analysis: Identifying trends and patterns in infections, deaths, and vaccinations.
+
 Visualization: Creating insightful visuals to highlight the pandemic's global impact.
 
 📊 Tableau Dashboard

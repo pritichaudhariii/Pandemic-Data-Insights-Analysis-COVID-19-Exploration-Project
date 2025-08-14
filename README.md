@@ -1,5 +1,8 @@
 🦠 COVID-19 Global Impact Analysis
 
+<img width="1470" height="845" alt="Screenshot 2025-08-13 at 3 14 08 PM" src="https://github.com/user-attachments/assets/44d2cee7-d399-42f9-9f15-e97ae10fd73d" />
+
+
 📈 Overview
 
 This project performs an exploratory data analysis (EDA) on COVID-19 data to assess the damage caused by the pandemic across different countries. The analysis examines infection rates, death counts, vaccination progress, and population-adjusted impact metrics.
@@ -22,4 +25,4 @@ Source: Our World in Data – COVID-19 Data
 Data cutoff: May 2024
 Here is a link to the [dataset](https://docs.owid.io/projects/etl/api/covid/#publications).
 
-<img width="1470" height="845" alt="Screenshot 2025-08-13 at 3 14 08 PM" src="https://github.com/user-attachments/assets/44d2cee7-d399-42f9-9f15-e97ae10fd73d" />
+
